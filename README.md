@@ -1,6 +1,4 @@
 # Meus projetos Phyton
 Repositorio criado para desafio do projeto
-
-##  Links uteis 
-{Sintax basica}(https://www.markdownguide.org/basic-syntax/)
-agora vai
+Com objetivos de acompanhar meu desenvolvimento no Phyton
+" “Sucesso não é o final, falhar não é fatal: é a coragem para continuar que conta.” winston churchill
